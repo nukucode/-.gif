@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ankit Yadav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-![](https://drive.google.com/file/d/1gtFTeETg-HOvOf2AqVfpF5U4z2BCjBe7/view?usp=share_link)
+![](https://github.com/nukucode/nukucode/blob/main/header_1.png)
 
 [![Twitter: Ankit Yadav](https://img.shields.io/twitter/follow/Ankit?style=social)](https://twitter.com/nukucode)
 [![Linkedin: Ankit Yadav](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nukucode/)](https://www.linkedin.com/in/nukucode/)
