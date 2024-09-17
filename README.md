@@ -7,15 +7,15 @@
 [![GitHub Ankit](https://img.shields.io/github/followers/nukucode?label=follow&style=social)](https://github.com/nukucode)
 
 ```javascript
-const thai = {
+const desc = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  code: [Javascript, Typescript, HTML, CSS, C, Python, Flutter],
+  tools: [React, Node ,MongoDB, Next, Redux, Tailwind CSS, Graphql, React Native, Firebase],
+  hobbies: ["🤍 anime", "🏀 sports" "🏔️ travel",],
+  projects: {
+                        complete: "Task App",
+                        In progress: "Netflix Clone",
+                        Not started: "Easy Otaku"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
