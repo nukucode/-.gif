@@ -2,6 +2,10 @@
 
 ![](https://drive.google.com/file/d/1gtFTeETg-HOvOf2AqVfpF5U4z2BCjBe7/view?usp=share_link)
 
+[![Twitter: Ankit Yadav](https://img.shields.io/twitter/follow/Ankit?style=social)](https://twitter.com/nukucode)
+[![Linkedin: Ankit Yadav](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nukucode/)](https://www.linkedin.com/in/nukucode/)
+[![GitHub Ankit](https://img.shields.io/github/followers/nukucode?label=follow&style=social)](https://github.com/nukucode)
+
 ```javascript
 const thai = {
   pronouns: "she" | "her",
