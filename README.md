@@ -12,11 +12,11 @@ const desc = {
   code: [Javascript, Typescript, HTML, CSS, C, Python, Flutter],
   tools: [React, Node ,MongoDB, Next, Redux, Tailwind CSS, Graphql, React Native, Firebase],
   hobbies: ["🤍 anime", "🏀 sports" "🏔️ travel",],
-  projects: {
-                        complete: "Task App",
-                        In progress: "Netflix Clone",
-                        Not started: "Easy Otaku"
-                      },
+  architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
