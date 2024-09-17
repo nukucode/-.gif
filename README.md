@@ -9,8 +9,8 @@
 ```javascript
 const desc = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, C, Python, Flutter],
-  tools: [React, Node ,MongoDB, Next, Redux, Tailwind CSS, Graphql, React Native, Firebase],
+  code: [Javascript, Typescript, Dart, Python, C],
+  tools: [React, Node ,MongoDB, Next, Redux, Tailwind CSS, Graphql, React Native, Flutter, Firebase],
   hobbies: ["🤍 anime", "🏀 sports" "🏔️ travel",],
   architecture: {
         frontEnd: ["SPA", "SSR"],
