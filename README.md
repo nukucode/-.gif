@@ -10,7 +10,7 @@
 const desc = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, Dart, Python, C],
-  tools: [React, Node ,MongoDB, Next, Redux, Tailwind CSS, Graphql, React Native, Flutter, Firebase],
+  tools: [React, Node ,MongoDB, Next, Redux, Graphql, React Native, Flutter, Firebase],
   hobbies: ["🤍 anime", "🏀 sports" "🏔️ travel",],
   architecture: {
         frontEnd: ["SPA", "SSR"],
